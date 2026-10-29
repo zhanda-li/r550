@@ -1,0 +1,34 @@
+# ROS / Python
+build/
+install/
+log/
+__pycache__/
+*.py[cod]
+.venv/
+# Local data, captures and models
+data/
+datasets/
+models/
+artifacts/
+*.bag
+*.db3
+*.mcap
+*.pt
+*.pth
+*.onnx
+*.engine
+# Vendor archives and binaries
+*.zip
+*.7z
+*.rar
+*.hex
+*.bin
+*.exe
+*.mp4
+# Secrets / local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+config/local/

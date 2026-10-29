@@ -1,0 +1,891 @@
+{
+  "source_root": "/home/lizhanda/越野感执一体/R550资料",
+  "file_count": 177,
+  "files": [
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/.megaignore",
+      "bytes": 100,
+      "sha256": "e2f9f26cde8e7eb88ef52f31b286972bae6b7ff9155bf3e488a8bc6acf0c44c3"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/1.硬件说明与底盘问题排查/1.ROS机器人硬件说明/4.ROS机器人硬件说明.mp4",
+      "bytes": 312341282,
+      "sha256": "9f0b6d4efb19863d8686afda1a8188da2c541bdf83a639d68bec345cdac19940"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/1.硬件说明与底盘问题排查/2.运动底盘通用介绍与常见问题处理/1.麦轮与四驱底盘的常见问题处理/测试代码/WHEELTEC_C50X_2025.12.26_测试程序.zip",
+      "bytes": 26734544,
+      "sha256": "4719a90fc8261619ee28577f1f626e23492fc5a022cf306941a85a820c626d2e"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/1.硬件说明与底盘问题排查/2.运动底盘通用介绍与常见问题处理/1.麦轮与四驱底盘的常见问题处理/测试代码/（架空小车再烧录）4WD四驱车测试代码.hex",
+      "bytes": 195405,
+      "sha256": "a8b8f63bde692990121052067792f5419597c70dfff9b4c77ff56d5eb075d0ab"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/1.硬件说明与底盘问题排查/2.运动底盘通用介绍与常见问题处理/1.麦轮与四驱底盘的常见问题处理/测试代码/（架空小车再烧录）Mec麦轮车测试代码.hex",
+      "bytes": 195037,
+      "sha256": "c47655c971c5e1a8f8f089cbb0bde87ba7c9c47fd6fcc378b3add65699e1be46"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/1.硬件说明与底盘问题排查/2.运动底盘通用介绍与常见问题处理/1.麦轮与四驱底盘的常见问题处理/麦轮与四驱底盘的常见问题处理2026.3.2.pdf",
+      "bytes": 1663595,
+      "sha256": "a28b82eea547ee3fd4302d3ffbdb3421ce40432634c635521633c30acd47701d"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/1.硬件说明与底盘问题排查/2.运动底盘通用介绍与常见问题处理/2.阿克曼底盘的常见问题处理/测试代码/WHEELTEC_C50X_2025.12.26_测试代码.zip",
+      "bytes": 27660836,
+      "sha256": "6aa2ab51c312de4f803ce51b9e0bfc5787574515971139d6d8af48ec7a8ddab2"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/1.硬件说明与底盘问题排查/2.运动底盘通用介绍与常见问题处理/2.阿克曼底盘的常见问题处理/测试代码/（架空小车再烧录）Akm阿克曼车测试代码.hex",
+      "bytes": 215843,
+      "sha256": "0b672f68dd67802abc32ef26c9b701e57a6ca976d0593f295ac369edf3cb32cd"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/1.硬件说明与底盘问题排查/2.运动底盘通用介绍与常见问题处理/2.阿克曼底盘的常见问题处理/阿克曼底盘的常见问题处理2026.3.2.pdf",
+      "bytes": 3912056,
+      "sha256": "b79d55b98062e94428a682823c2c5ce0967a6b1ccd7dba2f84827f8b671037a8"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/1.硬件说明与底盘问题排查/2.运动底盘通用介绍与常见问题处理/3.两轮差速和四轮两驱底盘的常见问题处理/两轮差速和四轮两驱底盘的常见问题处理2026.3.2.pdf",
+      "bytes": 1623049,
+      "sha256": "ab8d5d458232649f339e3874e3970dd7cdc683484609f9ef7b5450fe8f6f06ad"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/1.硬件说明与底盘问题排查/2.运动底盘通用介绍与常见问题处理/3.两轮差速和四轮两驱底盘的常见问题处理/测试代码/WHEELTEC_C50X_2025.12.26_测试代码.zip",
+      "bytes": 27776086,
+      "sha256": "bd24695021a3f9037abbd2c6c6efb9ebd70b7d573d583203219eb9de61b5fedd"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/1.硬件说明与底盘问题排查/2.运动底盘通用介绍与常见问题处理/3.两轮差速和四轮两驱底盘的常见问题处理/测试代码/（架空小车再烧录）Diff差速车测试代码.hex",
+      "bytes": 188054,
+      "sha256": "1f2eec04a5e7b9f2edd38a48dae1b75cfc67abf9c0b83279139b425fd980dd35"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/1.硬件说明与底盘问题排查/2.运动底盘通用介绍与常见问题处理/4.全向轮底盘的常见问题处理/全向轮底盘的常见问题处理2026.3.2.pdf",
+      "bytes": 1426151,
+      "sha256": "cc73695d535627ed8c3be86caac62cb0f111847fa3a86ca83282061b50efa63e"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/1.硬件说明与底盘问题排查/2.运动底盘通用介绍与常见问题处理/4.全向轮底盘的常见问题处理/测试代码/WHEELTEC_C50X_2025.12.26_测试代码.zip",
+      "bytes": 28659153,
+      "sha256": "0af613fc9d4df3e9dcc215e11edda0a9b21cda452046e92f5d987204e8f99343"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/1.硬件说明与底盘问题排查/2.运动底盘通用介绍与常见问题处理/4.全向轮底盘的常见问题处理/测试代码/（架空小车再烧录）Omni全向轮车测试代码.hex",
+      "bytes": 192149,
+      "sha256": "809c7f54fd70001ece0a801d6c97d9dacf8ba035eb788ec4e181ac06b14b4483"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/1.硬件说明与底盘问题排查/2.运动底盘通用介绍与常见问题处理/5.自组底盘常见问题说明/自组底盘常见问题说明2026_3_2.pdf",
+      "bytes": 917208,
+      "sha256": "d779f1a31f9a1f72ae38b7e62c02f54734faf54d0e06225d3652690e9189fdb3"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/1.硬件说明与底盘问题排查/2.运动底盘通用介绍与常见问题处理/R550PLUS型号信息汇总.xls",
+      "bytes": 29696,
+      "sha256": "acd8b213314c21417f16679f6c219ef258bec004a960f701cbfb01e88bf0b7f4"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/1.硬件说明与底盘问题排查/2.运动底盘通用介绍与常见问题处理/（优先查看）运动底盘通用介绍与常见问题处理.pdf",
+      "bytes": 1412805,
+      "sha256": "a4016aecaaccbee8cfbbe5802292c260a8281ab2f1f2983d72757060a90996ef"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/1.硬件说明与底盘问题排查/3.底盘拆装手册/底盘拆装手册.pdf",
+      "bytes": 1860153,
+      "sha256": "39b13be508c495bb5cf65a97fb3a113502e439cc3c5872530b5cd2787e4f5fa2"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/1.硬件说明与底盘问题排查/4.小车无法走直线问题处理/ROS大车机器人软件纠偏系数调节方法.pdf",
+      "bytes": 712227,
+      "sha256": "dac232611d2916c1b6686ea10547e30bb6f5eef01880814aa0ddbe3f85233abc"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/2.运动底盘开发手册/STM32运动底盘开发手册_大型ROS科研机器人_2025.12.29.pdf",
+      "bytes": 9870929,
+      "sha256": "9d4a4c71b7daa0ac520fd80f85f97b397f937c05e65d73515e6c02b4c18da31d"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/1.1 STM32运动底盘源码_ROS机器人控制板_C50C（默认使用该程序）/8驱麦轮大车专用代码/8驱主从车运动学分析布局（轴距轮距）.pdf",
+      "bytes": 501336,
+      "sha256": "eb363d4bc7a91af9f171f47d224b45df7d4bc023456995c851b2896a20c780fb"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/1.1 STM32运动底盘源码_ROS机器人控制板_C50C（默认使用该程序）/8驱麦轮大车专用代码/WHEELTEC_C50C_2025.06.10_从机.zip",
+      "bytes": 1366452,
+      "sha256": "57604cd359107b34a1495ab1eb5a6fef04e7e613b3a3b9bb435ad382d653a982"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/1.1 STM32运动底盘源码_ROS机器人控制板_C50C（默认使用该程序）/8驱麦轮大车专用代码/WHEELTEC_C50C_2025.10.17_主机.zip",
+      "bytes": 1382375,
+      "sha256": "e463f8196d37add2e773160c70afc33ca0d483c82b7538b84e2fe5685b9a462e"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/1.1 STM32运动底盘源码_ROS机器人控制板_C50C（默认使用该程序）/8驱麦轮大车专用代码/旧版代码/R550PLUS_C50C_8驱麦轮大车_2023.12.04.zip",
+      "bytes": 2802130,
+      "sha256": "5889a548e14d0e75ece3b26d24ba416858484712d0c8cb5a1d5b56e6027442a7"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/1.1 STM32运动底盘源码_ROS机器人控制板_C50C（默认使用该程序）/WHEELTEC_C50X_2025.12.26.zip",
+      "bytes": 1977971,
+      "sha256": "f05fd6faad799ef8a8836ad0ee666686dafbaa8b2283d9b9c25a69c675ca8254"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/1.1 STM32运动底盘源码_ROS机器人控制板_C50C（默认使用该程序）/小车出厂程序hex文件/R550PLUS_C50C_大车全向轮_2025.12.26.hex",
+      "bytes": 193605,
+      "sha256": "c8f9e78c15b49ca5505c25e51785705b445f83f203395aea4fef642925d8daf0"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/1.1 STM32运动底盘源码_ROS机器人控制板_C50C（默认使用该程序）/小车出厂程序hex文件/R550PLUS_C50C_大车四驱_2025.12.26.hex",
+      "bytes": 197062,
+      "sha256": "309eb99aa3478161b3d175417d8e5f24b6af2b685d5aa39d8c103655890ea9ca"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/1.1 STM32运动底盘源码_ROS机器人控制板_C50C（默认使用该程序）/小车出厂程序hex文件/R550PLUS_C50C_大车差速_2025.12.26.hex",
+      "bytes": 189727,
+      "sha256": "464db24b91c634771f05d897f98b3ca211b688124e4bb312fe3326d1b709a617"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/1.1 STM32运动底盘源码_ROS机器人控制板_C50C（默认使用该程序）/小车出厂程序hex文件/R550PLUS_C50C_大车阿克曼_2025.12.26.hex",
+      "bytes": 217492,
+      "sha256": "e699bb2a79e02ab3f8eb1f52cabbcf66ff32d734f7743902206ecfb411a069aa"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/1.1 STM32运动底盘源码_ROS机器人控制板_C50C（默认使用该程序）/小车出厂程序hex文件/R550PLUS_C50C_大车麦轮_2025.12.26.hex",
+      "bytes": 196673,
+      "sha256": "6601c42f433cd7dab06b56239000b89c0018d0f7c8a9dd0d320124dd73fdf5b8"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/1.1 STM32运动底盘源码_ROS机器人控制板_C50C（默认使用该程序）/源码工程使用指南.pdf",
+      "bytes": 600644,
+      "sha256": "9b1a163f6ff518d6bec0b803b8efcf05fabc57a15661120f69d1b769ee2ec970"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/1.2 STM32运动底盘源码_ROS机器人控制板_C50C霍尔编码器版本（此为特殊版本，不清楚的客户可以忽略）/WHEELTEC_C50X_2025.12.26霍尔编码器.zip",
+      "bytes": 28165406,
+      "sha256": "1b4e7614dbf51a9abe346cf8491b5f5c821582509e0dfb1d147db61073bc86b1"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/1.2 STM32运动底盘源码_ROS机器人控制板_C50C霍尔编码器版本（此为特殊版本，不清楚的客户可以忽略）/各车型hex文件/4WD_Car.hex",
+      "bytes": 197123,
+      "sha256": "f31642fe7c73c371d7c70dade4d83cc85719c2aa1073e2bf2cf4f352157e8b5f"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/1.2 STM32运动底盘源码_ROS机器人控制板_C50C霍尔编码器版本（此为特殊版本，不清楚的客户可以忽略）/各车型hex文件/Akm_Car.hex",
+      "bytes": 190087,
+      "sha256": "1299b567e2cb916873edcfff0c8a62dfb8220203fae252539fda99228c3513e9"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/1.2 STM32运动底盘源码_ROS机器人控制板_C50C霍尔编码器版本（此为特殊版本，不清楚的客户可以忽略）/各车型hex文件/Diff_Car.hex",
+      "bytes": 189743,
+      "sha256": "7732b8fefb6d6df2b8a6e89bb29c829b86bb340bcbf96a1bc287b916168a9b28"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/1.2 STM32运动底盘源码_ROS机器人控制板_C50C霍尔编码器版本（此为特殊版本，不清楚的客户可以忽略）/各车型hex文件/Mec_Car.hex",
+      "bytes": 196718,
+      "sha256": "ed5885f8f4a91b2e568d7e30f3afb5f7504fcb482b4abe8c05bc9b1856c09400"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/1.2 STM32运动底盘源码_ROS机器人控制板_C50C霍尔编码器版本（此为特殊版本，不清楚的客户可以忽略）/各车型hex文件/Omni_Car.hex",
+      "bytes": 193589,
+      "sha256": "1269823ec98bf00fda62c6ff5e9a7cfeb37e771df23b9c2ae3ec6d203f80ed7b"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/1.2 STM32运动底盘源码_ROS机器人控制板_C50C霍尔编码器版本（此为特殊版本，不清楚的客户可以忽略）/源码工程使用指南.pdf",
+      "bytes": 600644,
+      "sha256": "9b1a163f6ff518d6bec0b803b8efcf05fabc57a15661120f69d1b769ee2ec970"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/2.软件与驱动/WHEELTEC串口调试助手.exe",
+      "bytes": 70425600,
+      "sha256": "cfc5135693d22409e0943370ebc40ae4f2c2d94ea4c8844273fac8fd44c37a90"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/2.软件与驱动/程序烧录下载软件FlyMcu2188/FlyMcu2188.exe",
+      "bytes": 2663424,
+      "sha256": "942e249a7cc330b75541de269445f0a4d7bdfa3143d8a359df011741d18e030d"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/2.软件与驱动/程序烧录下载软件FlyMcu2188/FlyMcu2188Config.ini",
+      "bytes": 1434,
+      "sha256": "bf03f0e4620a0cbe8bb3731143d82f3cb8424700e89d98c36063b65242ea1ce3"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/2.软件与驱动/程序烧录下载软件FlyMcu2188/Flymcu版本说明.txt",
+      "bytes": 263,
+      "sha256": "1c8bfaad7c5f67c3c2717824c31381ce305c14bdd300338ae464c6d4eda23ed7"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/2.软件与驱动/驱动_CH9102驱动与资料（2023.05.15）.zip",
+      "bytes": 1672139,
+      "sha256": "903793e0223c5a8271de1e14ca20826e50f240bbeabba2e496f3309ea828774f"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/C50A和B的硬件区别.txt",
+      "bytes": 95,
+      "sha256": "82065939e74465be76b79d4905beaf6a672a61e5267a088bc39c434e1f60e205"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/C50B和C50C主控的硬件资源区别.txt",
+      "bytes": 103,
+      "sha256": "253c177bc3b5a7a631eedc79834680502ce410d15c64e13937df64e5d26f7ca6"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/ROS机器人控制板_新版C50A或B_实物图与接口说明.jpg",
+      "bytes": 811560,
+      "sha256": "6a3743dc203f7258b9b886ce73cd66a9e39b99f5f1e57dd0216d1f7c77d56ae4"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/ROS机器人控制板_旧版_实物图与接口说明.jpg",
+      "bytes": 92304,
+      "sha256": "f944bddc29cfee2a71f1e1e2fc1e07762b710adf6917a64adb87ecb8098724dd"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50B/F407VET6_大车阿克曼代码_C50B版本(2023.06.28).zip",
+      "bytes": 2771408,
+      "sha256": "4129921df530bbf14fc049578cfb5df8bd47ff83278bd757289f8bd46c2dfe64"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50B/STM32运动底盘源码_ROS机器人控制板_C50B_(2023.04.21)/F407VET6_8驱麦轮_移动机器人STM源码_2023.04.21.zip",
+      "bytes": 2747881,
+      "sha256": "47bbceaa6c7cc79cc92cb7a94b23f88c504bcc3d54b2d9fd1a5e2ad3b647976e"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50B/STM32运动底盘源码_ROS机器人控制板_C50B_(2023.04.21)/F407VET6_大车全向轮代码_C50B版本_(2023.04.21).zip",
+      "bytes": 1821651,
+      "sha256": "7f5c41469a55ebfee254636d62a7afb3aef7d4ba3192f0f5d82233824aedab23"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50B/STM32运动底盘源码_ROS机器人控制板_C50B_(2023.04.21)/F407VET6_大车四驱车代码_C50B版本_(2023.04.21).zip",
+      "bytes": 1932281,
+      "sha256": "9297fe989f9fef13fef139175015847fa58a6c78d728d37885608915c29d68c9"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50B/STM32运动底盘源码_ROS机器人控制板_C50B_(2023.04.21)/F407VET6_大车差速代码_C50B版本_(2023.04.21).zip",
+      "bytes": 1828562,
+      "sha256": "41689f5f42590b9438e6720bc9feb0db0d784de6899b08e6a43add981a23a3eb"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50B/STM32运动底盘源码_ROS机器人控制板_C50B_(2023.04.21)/F407VET6_大车阿克曼代码_C50B版本_(2023.04.21).zip",
+      "bytes": 2751456,
+      "sha256": "1eb4104103b9e0f36b8984e584df5e308cdcbad60d9c6b7dd007eb80cef9d966"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50B/STM32运动底盘源码_ROS机器人控制板_C50B_(2023.04.21)/F407VET6_大车麦轮代码_C50B版本_(2023.04.21).zip",
+      "bytes": 1919030,
+      "sha256": "a69349b5c70338598f3c4679d31aaf502b6a20ddc2144ccabdb7e2e9aee4a74d"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50B/STM32运动底盘源码_ROS机器人控制板_C50B_(2023.04.21)/R550PLUS_C50B_大车阿克曼_2023.07.25.zip",
+      "bytes": 2763794,
+      "sha256": "8ef3fed8452e56413b0e724f48c7ab5f2512c8152d130411c89b4c47b8bb255e"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50B/STM32运动底盘源码_ROS机器人控制板_C50B_(2023.04.21).zip",
+      "bytes": 15351639,
+      "sha256": "e17b2d16a982607ccb3a884144b780ec4cbc295c60cd77b9526bdc992c3bc3cf"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50B_霍尔编码器版本（此为特殊版本，不清楚的客户可以忽略）/F407VET6_8驱麦轮_移动机器人STM源码_2023.05.31.zip",
+      "bytes": 2313663,
+      "sha256": "0022e69de8d25de654a5ccb94ceebbdbb6418e86cac14a31e5a8f2b6f47d4feb"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50B_霍尔编码器版本（此为特殊版本，不清楚的客户可以忽略）/F407VET6_大车全向轮代码_C50B版本_(2023.05.31).zip",
+      "bytes": 1821606,
+      "sha256": "684e97e25edac2f43bad61d43534e124c89048946ec7101fa6260cde2536573c"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50B_霍尔编码器版本（此为特殊版本，不清楚的客户可以忽略）/F407VET6_大车四驱车代码_C50B版本_(2023.05.31).zip",
+      "bytes": 1932334,
+      "sha256": "f79a68d7c6da5e3f5816568433deb27568f8dc6e6ee689d53ee54efdfac8f758"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50B_霍尔编码器版本（此为特殊版本，不清楚的客户可以忽略）/F407VET6_大车差速代码_C50B版本_(2023.05.31).zip",
+      "bytes": 1830997,
+      "sha256": "1fbd3abd5a6ca85149035712716728ee61c5821b4c1c7566f637e0c3e80018b2"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50B_霍尔编码器版本（此为特殊版本，不清楚的客户可以忽略）/F407VET6_大车阿克曼代码_C50B版本_(2023.05.31).zip",
+      "bytes": 2750768,
+      "sha256": "de449d5e116d0fc499553e5446c9e89f97abd871c900025c21ff9fad18f34ec2"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50B_霍尔编码器版本（此为特殊版本，不清楚的客户可以忽略）/F407VET6_大车麦轮代码_C50B版本_(2023.05.31).zip",
+      "bytes": 1919085,
+      "sha256": "2387313b53f2edb9bb4c4d7634bd4b297262cdef74516395102df99f1af35439"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50B_霍尔编码器版本（此为特殊版本，不清楚的客户可以忽略）/霍尔编码器排线线序要求.pdf",
+      "bytes": 229699,
+      "sha256": "d44552a96803ca7f275f3c11639c41bc84a01337f8cd8d292b41299562d95741"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50C_未整合车型版本/1.2 STM32运动底盘源码_ROS机器人控制板_C50C_霍尔编码器版本（此为特殊版本，不清楚的客户可以忽略）/R550PLUS_C50C_大车全向轮(霍尔编码器)_2024.04.15.zip",
+      "bytes": 2045519,
+      "sha256": "22d1b9b2df69aa45549d679db90dc0ef9a1f69f674388328f85ae6054615c612"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50C_未整合车型版本/1.2 STM32运动底盘源码_ROS机器人控制板_C50C_霍尔编码器版本（此为特殊版本，不清楚的客户可以忽略）/R550PLUS_C50C_大车四驱(霍尔编码器)_2023.12.04.zip",
+      "bytes": 1291855,
+      "sha256": "fd372e6c88fdce7bf77afed9da968708d646ba5d592152e03f947f0d9e3cc8e6"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50C_未整合车型版本/1.2 STM32运动底盘源码_ROS机器人控制板_C50C_霍尔编码器版本（此为特殊版本，不清楚的客户可以忽略）/R550PLUS_C50C_大车差速(霍尔编码器)2023.09.27.zip",
+      "bytes": 2075972,
+      "sha256": "f495dc61773e3fbf346d5cb5d6ce2d82b3a7359036c3bee3f67f2769cb9f0e7d"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50C_未整合车型版本/1.2 STM32运动底盘源码_ROS机器人控制板_C50C_霍尔编码器版本（此为特殊版本，不清楚的客户可以忽略）/R550PLUS_C50C_大车阿克曼(霍尔编码器)_2024.04.15.zip",
+      "bytes": 3189099,
+      "sha256": "e166d0a40f75807c05784a4b97aa9894ba90b685e4dba3f1fdb2920c31044956"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50C_未整合车型版本/1.2 STM32运动底盘源码_ROS机器人控制板_C50C_霍尔编码器版本（此为特殊版本，不清楚的客户可以忽略）/R550PLUS_C50C_大车麦轮(霍尔编码器)_2024.04.01.zip",
+      "bytes": 2188129,
+      "sha256": "c7604a20b289a4e7bdf7bc7d0ee3456f421bfcf9bf1306a432aaf4d254e205e8"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50C_未整合车型版本/1.3 STM32运动底盘源码_ROS机器人控制板_C50C_开环控制版（不使用编码器）/R550PLUS_C50C_8驱麦轮大车_2023.12.04.zip",
+      "bytes": 30956858,
+      "sha256": "99c1a7b9d3049a422142cc4399b8429c12c998d3a4f344ac0789555094e53bf6"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50C_未整合车型版本/1.3 STM32运动底盘源码_ROS机器人控制板_C50C_开环控制版（不使用编码器）/R550PLUS_C50C_大车全向轮_2023.12.04.zip",
+      "bytes": 1848633,
+      "sha256": "74779973b613b862eff44967b939e0f925b61cb858a3379eee03a1302af68302"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50C_未整合车型版本/1.3 STM32运动底盘源码_ROS机器人控制板_C50C_开环控制版（不使用编码器）/R550PLUS_C50C_大车四驱_2023.12.04.zip",
+      "bytes": 16214435,
+      "sha256": "072a1d753b83dbeb5100cb65c7c5bf06827d69b8d67002a0ed1f2de9ad564949"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50C_未整合车型版本/1.3 STM32运动底盘源码_ROS机器人控制板_C50C_开环控制版（不使用编码器）/R550PLUS_C50C_大车差速_2023.12.04.zip",
+      "bytes": 16114346,
+      "sha256": "cb481a6556fd8ecdf98e57b0a3e115ea7606de6519389b3230fb19ac4ece74fb"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50C_未整合车型版本/1.3 STM32运动底盘源码_ROS机器人控制板_C50C_开环控制版（不使用编码器）/R550PLUS_C50C_大车阿克曼_2023.12.01.zip",
+      "bytes": 18024669,
+      "sha256": "62ac36a960576a739ae59fd62787db4340b9bc63221645b0a099c2f4319caadc"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50C_未整合车型版本/1.3 STM32运动底盘源码_ROS机器人控制板_C50C_开环控制版（不使用编码器）/R550PLUS_C50C_大车麦轮_2023.12.19.zip",
+      "bytes": 16220515,
+      "sha256": "e4456018b33cd33210c46cce1e311361607661b258927933c4e90a261ce27ddb"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50C_未整合车型版本/R550PLUS_C50C_8驱麦轮大车_2023.12.04.zip",
+      "bytes": 2802130,
+      "sha256": "5889a548e14d0e75ece3b26d24ba416858484712d0c8cb5a1d5b56e6027442a7"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50C_未整合车型版本/R550PLUS_C50C_大车全向轮_2023.12.04.zip",
+      "bytes": 1848633,
+      "sha256": "74779973b613b862eff44967b939e0f925b61cb858a3379eee03a1302af68302"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50C_未整合车型版本/R550PLUS_C50C_大车四驱_2023.12.04.zip",
+      "bytes": 1950525,
+      "sha256": "3d096372ef4f5d3d586032379da15e66e890e52afd55b0ca7b1e8a5b291c0434"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50C_未整合车型版本/R550PLUS_C50C_大车差速_2023.12.04.zip",
+      "bytes": 1839065,
+      "sha256": "279e3bc33353c455cadf1c7110f25ed55d76aa1f8014ee9111b9a61ab1caa3b3"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50C_未整合车型版本/R550PLUS_C50C_大车阿克曼_2023.12.01.zip",
+      "bytes": 2997703,
+      "sha256": "33e70bd2a4783a895135d6c23d560491d81711a4b10a69b39306432a9c3fa548"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_C50C_未整合车型版本/R550PLUS_C50C_大车麦轮_2023.12.19.zip",
+      "bytes": 1948497,
+      "sha256": "854f102b0058e4761cb2b51fc80fddae4f39f02a95ddf2af6ddecd767a8d714e"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_新版C50A/F407VET6_大车全向轮代码_C50A版本_(2022.11.08).zip",
+      "bytes": 5593923,
+      "sha256": "a9de25954d6dedda7ad79fe21d65a62024a19f75347d5680f0189e1805af7808"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_新版C50A/F407VET6_大车四驱车代码_C50A版本_(2022.11.08).zip",
+      "bytes": 6761055,
+      "sha256": "e4e2422a57ad55c32fc36aa4018d330c56d1b037578d66c302ce864fe4900f42"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_新版C50A/F407VET6_大车差速代码_C50A版本_(2022.11.08).zip",
+      "bytes": 5799981,
+      "sha256": "e3b14c1340fb7c2bd83db28574f90059005979de02ffff32364d51aa4a2083b4"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_新版C50A/F407VET6_大车阿克曼代码_C50A版本_(2022.11.08) .zip",
+      "bytes": 6521786,
+      "sha256": "d84912cf26bcf5900d56e39ae377ac8b7acfb94b125a3d550c68e4f51749eb1f"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_新版C50A/F407VET6_大车麦轮代码_C50A版本_(2022.11.17).zip",
+      "bytes": 20066829,
+      "sha256": "af68d3154adf5ae383cbe3b19868e71b8d174450fa4cb26017ce9c6280c92995"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_新版C50A/代码文件夹根目录内含接线说明_必须接正确!!（整车发货已接好线）.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_旧版/STM32运动底盘源码_F103RCT6版本（2022.10.12）/F103RCT6_8驱麦轮_移动机器人STM源码.zip",
+      "bytes": 32613022,
+      "sha256": "f4a678bb3082a3f2d06c9271c7f7367531758ba6e095ba3f53818ee852989efb"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_旧版/STM32运动底盘源码_F103RCT6版本（2022.10.12）/F103RCT6_全向轮_移动机器人STM32源码.zip",
+      "bytes": 15051883,
+      "sha256": "83b272f4fa14f0d8501bbb00134328b448e04857bdb814b7ed04f7cc2b35f7d6"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_旧版/STM32运动底盘源码_F103RCT6版本（2022.10.12）/F103RCT6_四驱_移动机器人STM32源码.zip",
+      "bytes": 16213786,
+      "sha256": "b14a1374a3fadf1ac4aae95564b8619ded4549edddb27cc4435e13f9c9cf0107"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_旧版/STM32运动底盘源码_F103RCT6版本（2022.10.12）/F103RCT6_差速_移动机器人STM32源码.zip",
+      "bytes": 15266095,
+      "sha256": "0ba5f546c7cc2147d1d0a3f7c8619823710decdd1cbde8d93b1635936674648c"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_旧版/STM32运动底盘源码_F103RCT6版本（2022.10.12）/F103RCT6_阿克曼_移动机器人STM32源码.zip",
+      "bytes": 6417309,
+      "sha256": "e0e413d9cf20020b937b20d31805a4b0424b68ff6601f53099e30cf913413a24"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_旧版/STM32运动底盘源码_F103RCT6版本（2022.10.12）/F103RCT6_麦轮_移动机器人STM32源码.zip",
+      "bytes": 16225003,
+      "sha256": "4d05fb0f3b1fd92935dd767b95073c7efddae439a19cccee51e6f40c68940898"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_旧版/STM32运动底盘源码_F103RCT6版本（2022.10.12）/代码文件夹根目录内含接线说明_必须接正确!!（整车发货已接好线）.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_旧版/STM32运动底盘源码_F405RGT6版本（2022.10.21）/F405RGT6_8驱麦轮_移动机器人STM源码.zip",
+      "bytes": 13913283,
+      "sha256": "329cba13f74a418e44f29db8c151c13deaa1fcf2e96f8900b87491f9f184b15c"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_旧版/STM32运动底盘源码_F405RGT6版本（2022.10.21）/F405RGT6_全向轮_移动机器人STM32源码.zip",
+      "bytes": 5701890,
+      "sha256": "f830c36969f29c741bba9a53a657a79a32e86db4d6b4a9824ad4d849f02c176d"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_旧版/STM32运动底盘源码_F405RGT6版本（2022.10.21）/F405RGT6_四驱_移动机器人STM32源码.zip",
+      "bytes": 6848999,
+      "sha256": "db89c280d4280248275a8f15087ac04d53536fd13da418c60c6476481502328f"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_旧版/STM32运动底盘源码_F405RGT6版本（2022.10.21）/F405RGT6_差速_移动机器人STM32源码.zip",
+      "bytes": 5905838,
+      "sha256": "5615ec48b8e1205693c83811e7e70c29b6e6bdd202bdb54b1ea02da21ea02776"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_旧版/STM32运动底盘源码_F405RGT6版本（2022.10.21）/F405RGT6_阿克曼_移动机器人STM32源码.zip",
+      "bytes": 6614521,
+      "sha256": "3d26b300cfe74c2161a8585c7d4631a80feb95bdff55eff00cc2df7324cc085e"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_旧版/STM32运动底盘源码_F405RGT6版本（2022.10.21）/F405RGT6_麦轮_移动机器人STM32源码.zip",
+      "bytes": 23985359,
+      "sha256": "049b31c596b4e9629214ea691489774bd30a6ed2ecd4005a4650aa5c81cb6156"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/STM32运动底盘源码_ROS机器人控制板_旧版/STM32运动底盘源码_F405RGT6版本（2022.10.21）/代码文件夹根目录内含接线说明_必须接正确!!（整车发货已接好线）.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/Thumbs.db",
+      "bytes": 14848,
+      "sha256": "d60725781304fcba218d321407f3115f0656403e14d7f19ea68619c489b1ef7d"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/3.旧版控制板的STM32源码/如何区分C50A-B-C控制板.jpg",
+      "bytes": 331410,
+      "sha256": "2cdfa9fbe0d6cac05e39b63a1836b5a20551714c8a7c752c85a56294247aed1e"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/GMR编码器（标配）与霍尔编码器的外观区别.jpg",
+      "bytes": 307682,
+      "sha256": "8f4f51489e5e6b405afd41a60e347173af4e66be8bf616291c55b02303e04f6a"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/readme.txt",
+      "bytes": 180,
+      "sha256": "cd43d92920e9df8f74374352de5f903f1003c27e9a83ff6258cc10391cafb561"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/3.STM32运动底盘源码/顶配阿克曼更新固件必读说明.pdf",
+      "bytes": 868825,
+      "sha256": "14bc5a2fcae4d63f6bd5f0896219211e5529cb1c207ee52221a10e02ff3cd8ea"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/主控制器_C50C版/32F407VET6主控芯片数据手册/STM32F407VET6.PDF",
+      "bytes": 5557002,
+      "sha256": "f83f1f3dca0b4e10483bc6fbb0adc01d9f49316400e140294fb3faa3c5c1ec85"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/主控制器_C50C版/32F407VET6主控芯片数据手册/STM32中文参考手册_V10.pdf",
+      "bytes": 14306739,
+      "sha256": "a471a011f2f5633eaa687351a65c641ac70264bd05c163af79feaf145437c022"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/主控制器_C50C版/C50C_程序烧录接口串口1与串口3.jpg",
+      "bytes": 130324,
+      "sha256": "454a6b7591850d9f43c1fba5f117e90273e597115df4d1e6be29de13ac8181fa"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/主控制器_C50C版/CAN通信驱动芯片/VP230.pdf",
+      "bytes": 1064780,
+      "sha256": "3ef2019b504882f6fca908932061221dec66fc525ca4f0118864f7e7e4cf1a0c"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/主控制器_C50C版/串口TTL转USB电平芯片资料/CH9102F.PDF",
+      "bytes": 188115,
+      "sha256": "f90947416da0a7ae060245b365bbb0664932d1d5d50d9072f8c72de731e1038d"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/主控制器_C50C版/主板详解_V1.0版.png",
+      "bytes": 646503,
+      "sha256": "c045010e8c44883039b7bd3c7f53bb046d153a2fcbf8270de451269b7eb0441b"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/主控制器_C50C版/主板详解_V2.0版.png",
+      "bytes": 775544,
+      "sha256": "1f6761a2697bdcd29d280862b18b0f26a05e94844c23889e26fabf19858a55aa"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/主控制器_C50C版/原理图与资源分配图/V1.0版/C50C主控原理图.pdf",
+      "bytes": 482329,
+      "sha256": "4971db9c491088b7bcb1b2ac2def6c34f8a1cdf4b671dc2ebb8f9e761b645d86"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/主控制器_C50C版/原理图与资源分配图/V1.0版/C50C集成板资源分配.pdf",
+      "bytes": 97185,
+      "sha256": "00605d84dba700fb62c11a2c42bd1f6506f80fa8b56102615383a5bdb5e1839b"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/主控制器_C50C版/原理图与资源分配图/V1.0版/C50C集成板资源分配表.pdf",
+      "bytes": 96690,
+      "sha256": "a39ebc375ac71267a6c4f90aba29e0114de0f3b34175c05bb42e5c1d1f216c1a"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/主控制器_C50C版/原理图与资源分配图/V2.0版/C50C-V2.0原理图.pdf",
+      "bytes": 644069,
+      "sha256": "2e926825ddb4225fdecc24546cea9248b6c267db13537212ddebeed3f35d903e"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/主控制器_C50C版/原理图与资源分配图/V2.0版/C50C-V2.0集成板资源分配.pdf",
+      "bytes": 97178,
+      "sha256": "f791c8fad98d685e61f3279c537db73fd75840266cd200aece32d7254d74a4eb"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/主控制器_C50C版/姿态传感器资料/V1.0版/MPU-6000.6050中文资料.pdf",
+      "bytes": 736221,
+      "sha256": "72ace97fff9ab60bf4d0335d237f7e90c059c907b528f4d083a3d67b254f8115"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/主控制器_C50C版/姿态传感器资料/V1.0版/MPU-60X0寄存器中文版V4.0.pdf",
+      "bytes": 1333167,
+      "sha256": "c8982f082f7daebd292b4902b403eafdc8c43f6d660f570f9bea917afa9dfa9e"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/主控制器_C50C版/姿态传感器资料/V1.0版/MPU6050原版英文手册.PDF",
+      "bytes": 1487214,
+      "sha256": "9d3b698699d6d907790607223deb7d7e604d2597bd1fc97f586e18ce5dc9ef9f"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/主控制器_C50C版/姿态传感器资料/V1.0版/MPU6050寄存器英文版本.pdf",
+      "bytes": 921465,
+      "sha256": "519650cbc502a3e89ddba6d6f115734b6c7060d451938c0dc36b6232daae7014"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/主控制器_C50C版/姿态传感器资料/V2.0版/ICM-20948.pdf",
+      "bytes": 1149633,
+      "sha256": "e1738cbd87a5a553e1ee80f2e93d6c86b35d9367cd573641ed4073435ebea8e2"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/主控制器_C50C版/更新记录.txt",
+      "bytes": 521,
+      "sha256": "42bd182cd1bd2b4126a96cdb40efbd5a210fb1950b6846fc89a8827547cc337d"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50A版/C50A_程序烧录接口串口1与串口3.jpg",
+      "bytes": 130324,
+      "sha256": "454a6b7591850d9f43c1fba5f117e90273e597115df4d1e6be29de13ac8181fa"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50A版/C50A主板原理图_20221026.PDF",
+      "bytes": 493307,
+      "sha256": "02c70bf78acf7684184466e5e522bb185c4d904a4f67f72cf121595b7f661a58"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50A版/C50A集成板资源分配.pdf",
+      "bytes": 95415,
+      "sha256": "8757323fe6b8cdc2ccfb1c2f3963a93bed4563e63533ead3a9b762a78c36187c"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50A版/CAN通信驱动芯片/VP230.pdf",
+      "bytes": 1064780,
+      "sha256": "3ef2019b504882f6fca908932061221dec66fc525ca4f0118864f7e7e4cf1a0c"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50A版/ROS机器人控制板_新版C50A_实物图与接口说明.jpg",
+      "bytes": 811560,
+      "sha256": "6a3743dc203f7258b9b886ce73cd66a9e39b99f5f1e57dd0216d1f7c77d56ae4"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50A版/STM32F407VET6主控芯片数据手册/STM32F407VET6.PDF",
+      "bytes": 5557002,
+      "sha256": "f83f1f3dca0b4e10483bc6fbb0adc01d9f49316400e140294fb3faa3c5c1ec85"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50A版/STM32F407VET6主控芯片数据手册/STM32中文参考手册_V10.pdf",
+      "bytes": 14306739,
+      "sha256": "a471a011f2f5633eaa687351a65c641ac70264bd05c163af79feaf145437c022"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50A版/串口TTL转USB电平芯片资料/CH9102F.PDF",
+      "bytes": 188115,
+      "sha256": "f90947416da0a7ae060245b365bbb0664932d1d5d50d9072f8c72de731e1038d"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50A版/姿态传感器资料/MPU-6000.6050中文资料.pdf",
+      "bytes": 736221,
+      "sha256": "72ace97fff9ab60bf4d0335d237f7e90c059c907b528f4d083a3d67b254f8115"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50A版/姿态传感器资料/MPU-60X0寄存器中文版V4.0.pdf",
+      "bytes": 1333167,
+      "sha256": "c8982f082f7daebd292b4902b403eafdc8c43f6d660f570f9bea917afa9dfa9e"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50A版/姿态传感器资料/MPU6050原版英文手册.PDF",
+      "bytes": 1487214,
+      "sha256": "9d3b698699d6d907790607223deb7d7e604d2597bd1fc97f586e18ce5dc9ef9f"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50A版/姿态传感器资料/MPU6050寄存器英文版本.pdf",
+      "bytes": 921465,
+      "sha256": "519650cbc502a3e89ddba6d6f115734b6c7060d451938c0dc36b6232daae7014"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50B版/C50B_程序烧录接口串口1与串口3.jpg",
+      "bytes": 130324,
+      "sha256": "454a6b7591850d9f43c1fba5f117e90273e597115df4d1e6be29de13ac8181fa"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50B版/C50B主控原理图.pdf",
+      "bytes": 496152,
+      "sha256": "cd14fc2baff347962317e4c63b2b99c2806d27db4724856fd30ac49e3e3001c3"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50B版/C50B主板资源分配.pdf",
+      "bytes": 95701,
+      "sha256": "ca78b448568550e739a8a29c8bae46ccce2ef9ad062f606cd2a385f72ecb8f54"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50B版/CAN通信驱动芯片/VP230.pdf",
+      "bytes": 1064780,
+      "sha256": "3ef2019b504882f6fca908932061221dec66fc525ca4f0118864f7e7e4cf1a0c"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50B版/ROS机器人控制板_新版C50B_实物图与接口说明.jpg",
+      "bytes": 853850,
+      "sha256": "1f008da207e80f724b40c098d3ede095370b8e0b9f737f5f3730ce96cadc5fa4"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50B版/STM32F407VET6主控芯片数据手册/STM32F407VET6.PDF",
+      "bytes": 5557002,
+      "sha256": "f83f1f3dca0b4e10483bc6fbb0adc01d9f49316400e140294fb3faa3c5c1ec85"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50B版/STM32F407VET6主控芯片数据手册/STM32中文参考手册_V10.pdf",
+      "bytes": 14306739,
+      "sha256": "a471a011f2f5633eaa687351a65c641ac70264bd05c163af79feaf145437c022"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50B版/串口TTL转USB电平芯片资料/CH9102F.PDF",
+      "bytes": 188115,
+      "sha256": "f90947416da0a7ae060245b365bbb0664932d1d5d50d9072f8c72de731e1038d"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50B版/姿态传感器资料/MPU-6000.6050中文资料.pdf",
+      "bytes": 736221,
+      "sha256": "72ace97fff9ab60bf4d0335d237f7e90c059c907b528f4d083a3d67b254f8115"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50B版/姿态传感器资料/MPU-60X0寄存器中文版V4.0.pdf",
+      "bytes": 1333167,
+      "sha256": "c8982f082f7daebd292b4902b403eafdc8c43f6d660f570f9bea917afa9dfa9e"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50B版/姿态传感器资料/MPU6050原版英文手册.PDF",
+      "bytes": 1487214,
+      "sha256": "9d3b698699d6d907790607223deb7d7e604d2597bd1fc97f586e18ce5dc9ef9f"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_C50B版/姿态传感器资料/MPU6050寄存器英文版本.pdf",
+      "bytes": 921465,
+      "sha256": "519650cbc502a3e89ddba6d6f115734b6c7060d451938c0dc36b6232daae7014"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_转接板+F103RCT6/CAN通信驱动芯片/VP230.pdf",
+      "bytes": 1064780,
+      "sha256": "3ef2019b504882f6fca908932061221dec66fc525ca4f0118864f7e7e4cf1a0c"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_转接板+F103RCT6/ROS机器人控制板_控制器STM32F103RC原理图.pdf",
+      "bytes": 151883,
+      "sha256": "f688c168309a9dc18b22db7cabeb6a7b4f6fdb36e663cd3131892cf40d750768"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_转接板+F103RCT6/ROS机器人控制板_旧版_实物图与接口说明.jpg",
+      "bytes": 92304,
+      "sha256": "f944bddc29cfee2a71f1e1e2fc1e07762b710adf6917a64adb87ecb8098724dd"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_转接板+F103RCT6/ROS机器人控制板_转接板原理图.pdf",
+      "bytes": 237277,
+      "sha256": "c68635c8a370ddf67a77dfc18b99f563736d9b3070a2d48b128d28b62e2e4049"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_转接板+F103RCT6/STM32F103RCT6主控芯片数据手册/STM32F103RCT6.PDF",
+      "bytes": 3225510,
+      "sha256": "c9b21d3e41aa42a080cb0b2d8a8a687e6646395d06dc0422b664d4465c34a56a"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_转接板+F103RCT6/STM32F103RCT6主控芯片数据手册/STM32F103xCDE_DS_CH_V5.pdf",
+      "bytes": 2901411,
+      "sha256": "bb87341aa6861c5137fc1cf3bfc8ef0e4c60785f9e0678259e6ece65764e3d9a"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_转接板+F103RCT6/STM32F103RCT6主控芯片数据手册/STM32中文参考手册_V10.pdf",
+      "bytes": 14306739,
+      "sha256": "a471a011f2f5633eaa687351a65c641ac70264bd05c163af79feaf145437c022"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_转接板+F103RCT6/串口TTL转USB电平芯片资料/CP2102.PDF",
+      "bytes": 2008799,
+      "sha256": "23956ca9f7b66d286c6b3d9101f75345f24e259ac60eaee51ef4e807acc0a175"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_转接板+F103RCT6/姿态传感器资料/MPU-6000.6050中文资料.pdf",
+      "bytes": 736221,
+      "sha256": "72ace97fff9ab60bf4d0335d237f7e90c059c907b528f4d083a3d67b254f8115"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_转接板+F103RCT6/姿态传感器资料/MPU-60X0寄存器中文版V4.0.pdf",
+      "bytes": 1333167,
+      "sha256": "c8982f082f7daebd292b4902b403eafdc8c43f6d660f570f9bea917afa9dfa9e"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_转接板+F103RCT6/姿态传感器资料/MPU6050原版英文手册.PDF",
+      "bytes": 1487214,
+      "sha256": "9d3b698699d6d907790607223deb7d7e604d2597bd1fc97f586e18ce5dc9ef9f"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/旧版主控制器资料/主控制器_转接板+F103RCT6/姿态传感器资料/MPU6050寄存器英文版本.pdf",
+      "bytes": 921465,
+      "sha256": "519650cbc502a3e89ddba6d6f115734b6c7060d451938c0dc36b6232daae7014"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/电机驱动/新版（2022.12.22起用）的驱动有更高的支持更高的电压输入（32V）.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/电机驱动/（新版）双通道直流有刷电机驱动D50A用户手册（12.22).pdf",
+      "bytes": 998145,
+      "sha256": "714b2188fac9b97348a56b86524b9ef22abd5e5a5536d62cd361d06eec4603f8"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/电机驱动/（旧版）【12A】双通道直流有刷电机驱动器-数据手册V2.0.pdf",
+      "bytes": 1151331,
+      "sha256": "53c04ec08246e1efbc4395afd667e7e4979e1a534ce06514e81042ca1b9eff4d"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/蓝牙模块/JDY-33_蓝牙模块_资料链接.txt",
+      "bytes": 87,
+      "sha256": "6277373832fd4e4b8bd9722d7873177220a8212938e8016846b01575481e1522"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/4.芯片数据手册与原理图/蓝牙模块/旧版蓝牙/BT04蓝牙模块资料.zip",
+      "bytes": 111250122,
+      "sha256": "cb5311e61d4101e0daab592b80711277d17fa50013004465084cbf0911dc3a05"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/5.USB一键下载与蓝牙无烧录教程/1.USB一键下载/USB一键下载_资料链接.txt",
+      "bytes": 78,
+      "sha256": "34ff611686c2810cadb0f47976439bdeb8c314301b64d68c88c570ae4f5a31e6"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/5.USB一键下载与蓝牙无烧录教程/2.蓝牙无烧录教程与工具/1.无线烧录配置与使用视频教程/1.无线烧录配置教程说明.mp4",
+      "bytes": 406474907,
+      "sha256": "ba73c3a8e1b52b6303fa3587bd90e49de82a40e1c2b2920658895a8e05c14d13"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/5.USB一键下载与蓝牙无烧录教程/2.蓝牙无烧录教程与工具/1.无线烧录配置与使用视频教程/2.补充：WIFI模块使用说明.mp4",
+      "bytes": 76720515,
+      "sha256": "57d0eeb2ab3f67db2c3447db56d70e50e49c6a67d0f531b4dd01d2ed44430ba5"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/5.USB一键下载与蓝牙无烧录教程/2.蓝牙无烧录教程与工具/2.烧录工具/C50C_BootLoader_64kb_V1.0.hex",
+      "bytes": 37753,
+      "sha256": "b0a560470c2b2bd19ee5b9e265fa2d13a5d63b374b178abc89c500654d98ae8f"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/5.USB一键下载与蓝牙无烧录教程/2.蓝牙无烧录教程与工具/2.烧录工具/FlyMcu2188.exe",
+      "bytes": 2663424,
+      "sha256": "942e249a7cc330b75541de269445f0a4d7bdfa3143d8a359df011741d18e030d"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/5.USB一键下载与蓝牙无烧录教程/2.蓝牙无烧录教程与工具/2.烧录工具/WHEELTEC 无线烧录工具.exe",
+      "bytes": 9834051,
+      "sha256": "2ddd4a44d1795285ecd4e5bb500d26c87859c31d29c967f8cd46e4c3ceb282bf"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/5.USB一键下载与蓝牙无烧录教程/2.蓝牙无烧录教程与工具/2.烧录工具/WHEELTEC_C50X_2025.12.26-已配置无线烧录.zip",
+      "bytes": 28614850,
+      "sha256": "3e6c70532dd637a7f197db88d36bab0810d770a8a044b09f13c519e0a051340b"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/5.USB一键下载与蓝牙无烧录教程/2.蓝牙无烧录教程与工具/WHEELTEC 无线烧录软件使用说明文档.pdf",
+      "bytes": 1034543,
+      "sha256": "aec8bf5cc73514da7a6fe032dc793b50926f9867ffd9406e29255367957ee297"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/5.USB一键下载与蓝牙无烧录教程/简单更新固件程序请参考USB一键下载教程.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/R550 PLUS随货手册_2025.10.14.pdf",
+      "bytes": 3674338,
+      "sha256": "9811c5de65073e91405834e6059674033cd5c89e9220f1ce3ac3da51cdc6e030"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/WHEELTEC R550 PLUS ROS大型科研机器人系列资料文件结构.txt",
+      "bytes": 2997,
+      "sha256": "0e9e54d7696703e051fe7c1d710e51236ea4a505393480d1d0d9a8dc03475e46"
+    },
+    {
+      "path": "2.WHEELTEC R550 PLUS ROS大型科研机器人系列资料/更新记录.txt",
+      "bytes": 8584,
+      "sha256": "8bbcb76c9fd5b66ea1a4f829583af9059e3fdced770b18e1afe4dd109a442451"
+    }
+  ]
+}
